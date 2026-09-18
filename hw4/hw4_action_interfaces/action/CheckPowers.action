@@ -1,0 +1,9 @@
+# Goal
+int32[] numbers
+---
+# Result
+bool[] flags
+---
+# Feedback
+int32 current_number
+bool is_power_of_two
