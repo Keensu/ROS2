@@ -1,0 +1,9 @@
+# Goal
+Exhibit target
+float32 stop_distance
+---
+# Result
+bool success
+---
+# Feedback
+float32 distance_left
